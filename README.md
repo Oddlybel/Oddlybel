@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Blessing Oliaku.
-- ⭐️ You can call me OessisCode. 
+- ⭐️ You can call me Oessis. 
 - 👀 I’m interested in Web Development, specifically Frontend. 
 - 🌱 I’m currently learning HTML/CSS/JavaScript. 
 - 💞️ I’m looking to collaborate on and contribute to any available web development projects.  
